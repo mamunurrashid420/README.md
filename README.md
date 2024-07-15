@@ -15,6 +15,7 @@ I like to develop any kind of web development by using docker,docker-compose, an
 <code><a href="https://python.org/" target="_blank" title="Python"><img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="50" />
 </a></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="github"></code>
+<code><img height="50" src="https://wac-cdn.atlassian.com/dam/jcr:e2a6f06f-b3d5-4002-aed3-73539c56a2eb/bitbucket_rgb_blue.png?cdnVersion=cm" title="github"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" title="Docker"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" title="MySQL"></code>
 <code><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" title="Postgress SQL"/></code>
@@ -73,9 +74,9 @@ I like to develop any kind of web development by using docker,docker-compose, an
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" title="SonarQube">
     <img src="https://wiki.eclipse.org/images/8/88/Sonarqube.png" alt="SonarQube" height="75" />
   </a>
-  <a href="https://www.snowflake.com/en/" target="_blank" title="Snowflake Data Warehouse">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" alt="Snowflake Data Warehouse" height="75" />
-  </a>
+  <!-- <a href="https://www.snowflake.com/en/" target="_blank" title="Snowflake Data Warehouse">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" alt="Snowflake Data Warehouse" height="75" /> -->
+  <!-- </a> -->
 </p>
 
 
@@ -100,22 +101,15 @@ I like to develop any kind of web development by using docker,docker-compose, an
 
 
 <br/>
-<br/>
 
- <a href="https://github.com/mamunurrashid420"><img alt="arfin foysal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mamunurrashid420&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/arfinfoysal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/arfinfoysalbd"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/arfinfoysalbd/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/arfinfoysalbd"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-<a href = "https://stackoverflow.com/users/14008024/arfin-foysal"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+<a href = "https://www.linkedin.com/in/mamunur-rashid-mamun-601392a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/mamunurr191"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.facebook.com/mamun2015R"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://stackoverflow.com/users/13946936/mamunur-rashid"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 
 </p>
 
